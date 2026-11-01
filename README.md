@@ -3,9 +3,6 @@
 ## Project Overview
 The Student Grade Calculator is a C programming mini project developed to calculate the total marks, percentage, and grade of a student based on marks obtained in five subjects.
 
-DOCUMENT:
-file:///C:/Users/ayuss/Downloads/Student_Grade_Calculator_Report.pdf
-
 ## Objectives
 - To calculate total marks obtained by a student.
 - To calculate the overall percentage.
